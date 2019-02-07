@@ -8,6 +8,10 @@
 
 bluenight is a high-contrast Jekyll theme, perfect for building personal sites, blogs, and portfolios.
 
-**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/bluefil) for having it developed and maintaining it.**
+To install, clone the repo to your github.io repo, customize `_config.yml` and push the changes.  That's it.
+
+New posts should be added to `_posts`; `about.md` and `portfolio.md` will also need to be customized.
+
+**If you enjoy this theme, please consider [supporting me](https://www.paypal.me/bluefil) for having it developed and maintained.**
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/bluefil)

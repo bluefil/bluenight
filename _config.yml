@@ -1,9 +1,9 @@
-title: Blog Title
-email: sitemail@domain.com
+title: Your Blog Title
+email: youremail@domain.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog description
-baseurl: "/gitjekyll"
-url: "https://onokumus.com"
+baseurl: ""
+url: "https://yoursite.github.io"
 permalink: pretty
 logo: "/assets/img/logo.svg"
 phone: +1234
@@ -27,14 +27,14 @@ paginate: 5
 disqus:
   shortname: ""
 
-mailchimp-list: //redgadgets.us10.list-manage.com/subscribe/post?u=210acce5db69d3d4a04b0e25d&amp;id=08c6708f40"
+mailchimp-list: //redgadgets.us10.list-manage.com/subscribe/post?u=210acce5db69d3d4a04b0e25d&amp;id=18c6708f40"
 
 facebook:
   app_id: 1234
   publisher: 1234
   admins: 1234
 
-google_analytics: UA-1669764-16
+google_analytics: UA-000000000-16
 
 webmaster_verifications:
   google: 1234
@@ -44,16 +44,16 @@ webmaster_verifications:
   baidu: 1234
 
 social:
-  name: Ben Balter
+  name: Your Name
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/YourInfo
+    - https://www.facebook.com/YourInfo
+    - https://www.linkedin.com/in/YourInfo
+    - https://plus.google.com/+YourInfo
+    - https://github.com/YourInfo
+    - https://keybase.io/YourInfo
 
-google_analytics: UA-1669764-16
+google_analytics: UA-000000000-16
 
 webmaster_verifications:
   google: 1234
@@ -62,14 +62,14 @@ webmaster_verifications:
   yandex: 1234
   baidu: 1234
 
-author: John Doe
+author: Your Name
 
 twitter:
-  username: onokumus
+  username: YourInfo
   card: summary
 
-twitter_username: onokumus
-github_username:  onokumus
+twitter_username: YourInfo
+github_username:  YourInfo
 dribbble_username:
 facebook_username:
 flickr_username:
